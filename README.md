@@ -21,8 +21,9 @@ Free knowledge is the basis for equalization and ownership. ClubS is not restric
 The contract serves to mint a Club NFT for a NFT-gated Club. 
 - Users who are creating the club are only allowed to set NFT rules within its assets.
 - Users who want to join the club for discussion must hold the same NFT.
-- Further developments will be into:
-  - Club NFT can be traded in app
+- Further ideas will be into:
+  - Staking NFTs to mint a Club NFT
+  - Allow Club NFT to be traded in app
   - Blindbox pre-sale of Club NFT minting rights
   - Club NFT can be display besides username
   - NFT-gated Club could issue fractional Club NFT
@@ -62,6 +63,8 @@ Contract Address: https://rinkeby.etherscan.io/address/0x17fab380986bde2d653a499
 twitter: https://twitter.com/clubs_official
 
 Deck: https://docsend.com/view/5588sz8vtxxqam9a
+
+Demo: https://youtu.be/VmDMa0nVZ7s
 
 Initial Prototype on Appstore: https://club-s.app.link/06kQDcgTtqb
 
