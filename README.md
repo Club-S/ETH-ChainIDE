@@ -30,6 +30,7 @@ The contract serves to mint a Club NFT for a NFT-gated Club.
   - Club NFT can be display besides username
   - NFT-gated Club could issue fractional Club NFT
   - Club NFT minter can get higher weightage to be the Club Staff
+
 Contract Address: https://rinkeby.etherscan.io/address/0x17fab380986bde2d653a49979f66e2eb4917e248
 
 #### Input Data:
