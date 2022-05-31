@@ -7,20 +7,19 @@
 ClubS is a Mobile-First Web3 Social App using Fan Economy Model.
 Upon the app-based bbs marketplace we have built, we are developping the service to allow user to create NFT-masked forums, in which only permitted users can create post and comment. 
 
+### What is NFT-masked?
+Free knowledge is the basis for equalization and ownership. ClubS is not restricting freedom of knowledge in the name autonomy, so user can view all contents on the platform while the participation in certain discussion may be restricted by the NFT-bar.
+
 
 <img width="700" alt="01" src="https://user-images.githubusercontent.com/72496372/171253441-fefd2807-68d3-4438-a653-d23f731827cb.png">
 <br>
 <br>
 <br>
 
-### What is NFT-masked?
-Free knowledge is the basis for equalization and ownership. ClubS is not restricting freedom of knowledge in the name autonomy, so user can view all contents on the platform while the participation in certain discussion may be restricted by the NFT-bar.
-<br>
-<br>
-<br>
 
 
-### About the contract
+
+## About the contract
 The contract serves to mint a Club NFT for a NFT-gated Club. 
 - Users who are creating the club are only allowed to set NFT rules within its assets.
 - Users who want to join the club for discussion must hold the same NFT.
@@ -49,12 +48,31 @@ Contract Address: https://rinkeby.etherscan.io/address/0x17fab380986bde2d653a499
 
 <br>
 <br>
-### About App code
+
+## About App code
 Mobile app is different from webApps. We are happy to open-source part of our code for community learning purposes.
 Feel free to learn and use flutter. Let us know how to improve it and let's co-create!
 <br>
 <br>
-### About our next 3 months
+#### Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+<br>
+<br>
+
+
+
+## Next 3 months
 - Testnet fully deployment
 - Publish on appstore
 - Content on chain
