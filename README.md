@@ -49,8 +49,11 @@ Contract Address: https://rinkeby.etherscan.io/address/0x17fab380986bde2d653a499
 
 <br>
 <br>
-
-
+### About App code
+Mobile app is different from webApps. We are happy to open-source part of our code for community learning purposes.
+Feel free to learn and use flutter. Let us know how to improve it and let's co-create!
+<br>
+<br>
 ### About our next 3 months
 - Testnet fully deployment
 - Publish on appstore
