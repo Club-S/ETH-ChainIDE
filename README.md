@@ -89,7 +89,7 @@ twitter: https://twitter.com/clubs_official
 
 Deck: https://docsend.com/view/5588sz8vtxxqam9a
 
-Demo: https://youtu.be/VmDMa0nVZ7s
+Demo: https://youtu.be/X5cMIxHbga4
 
 Initial Prototype on Appstore: https://club-s.app.link/06kQDcgTtqb
 
